@@ -1,2 +1,2 @@
-# issues
-The issues
+# Issues
+The issues.
